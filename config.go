@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/xfrr/goffmpeg/pkg/cmd"
+	"github.com/VictoriqueMoe/goffmpeg/pkg/cmd"
 )
 
 const (
